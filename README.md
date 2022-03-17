@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-nft-card-using-html-and-css-wVdp_JKLA)
+- Live Site URL: (https://ipogeni.github.io/NFT-Preview-Card-Component/)
 
 ## My process
   Finished making the basic markups for the design, set tags that seemed appropriate. Styled the markups as per the designs and went back to HTML for additional active and hover effects.
